@@ -21,7 +21,7 @@ def send_whatsapp_message(msg: str, phone_numbers: list):
     except Exception as e:
         print(str(e))
 if __name__ == "__main__":
-    # List of phone numbers of your friends
-    friend_numbers =["+90 530 661 50 96","+90 539 336 66 95","+90 539 336 66 93"]
+    # List of phone numbers of your customers
+    friend_numbers =["+90 530 xxx xx xx","+90 539 xxx xx xx","+90 539 xxx xx xx"]
     message = "Whatsapp Toplu mesaj Listesi..."
     send_whatsapp_message(msg=message, phone_numbers=friend_numbers)
