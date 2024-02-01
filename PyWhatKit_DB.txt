@@ -53,3 +53,33 @@ Time: 14:54
 Phone Number: +90 539 336 66 93
 Message: Whatsapp Toplu mesaj listesi
 --------------------
+Date: 1/2/2024
+Time: 11:20
+Phone Number: +90 531 935 92 39
+Message: Whatsapp Toplu mesaj Listesi...
+--------------------
+Date: 1/2/2024
+Time: 11:21
+Phone Number: +90 531 935 92 39
+Message: Whatsapp Toplu mesaj Listesi...
+--------------------
+Date: 1/2/2024
+Time: 11:22
+Phone Number: +905319359239
+Message: Whatsapp Toplu mesaj Listesi...
+--------------------
+Date: 1/2/2024
+Time: 11:23
+Phone Number: +905417349766
+Message: Whatsapp Toplu mesaj Listesi...
+--------------------
+Date: 1/2/2024
+Time: 11:40
+Phone Number: "+905417349766"
+Message: Whatsapp Toplu mesaj Listesi...
+--------------------
+Date: 1/2/2024
+Time: 11:40
+Phone Number: "+905319359239"
+Message: Whatsapp Toplu mesaj Listesi...
+--------------------

@@ -1,4 +1,5 @@
 import time
+import pandas as pd
 import pywhatkit
 import pyautogui
 from pynput.keyboard import Key , Controller
@@ -22,6 +23,7 @@ def send_whatsapp_message(msg: str, phone_numbers: list):
         print(str(e))
 if __name__ == "__main__":
     # List of phone numbers of your customers
-    friend_numbers =["+90 530 xxx xx xx","+90 539 xxx xx xx","+90 539 xxx xx xx"]
+    with open('list.py') as f:
+        lines = [line.rstrip('\n') for line in f]
     message = "Whatsapp Toplu mesaj Listesi..."
-    send_whatsapp_message(msg=message, phone_numbers=friend_numbers)
+    send_whatsapp_message(msg=message, phone_numbers=lines)
